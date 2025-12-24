@@ -26,7 +26,6 @@ A simple and clean Pizza ordering application homepage UI built with **Flutter**
 - 💙 **Flutter** – Cross-platform framework for building native-like mobile apps.
 - 🎯 **Dart** – Programming language used with Flutter.
 
-*(Add any state management packages like `provider`, `getx`, or `bloc` here if used in your project.)*
 
 ---
 
